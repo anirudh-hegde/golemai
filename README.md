@@ -22,8 +22,8 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/golem-ai.git
-   cd golem-ai
+   git clone https://github.com/your-repo/golemai.git
+   cd golemai
    python3 -m venv venv
    pip install -r requirements.txt
 2. Run the app:
