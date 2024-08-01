@@ -1,5 +1,7 @@
 FROM python:3.10-slim
 
+EXPOSE 8501
+
 WORKDIR /golem
 
 COPY requirements.txt golem.py ./
