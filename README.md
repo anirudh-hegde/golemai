@@ -1,5 +1,5 @@
 
-# GolemAI
+# GolemAI 🤖
 
 Welcome to **GolemAI**! This project is your personal Golang code assistant powered by Google's Generative AI tools. 
 GolemAI provides functionalities to generate, format, and explain Golang code snippets based on natural language prompts.
