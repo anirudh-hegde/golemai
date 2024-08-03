@@ -4,6 +4,9 @@
 Welcome to **GolemAI**! This project is your personal Golang code assistant powered by Google's Generative AI tools. 
 GolemAI provides functionalities to generate, format, and explain Golang code snippets based on natural language prompts.
 
+## Demo
+https://github.com/user-attachments/assets/867f7c22-1261-4b11-abe8-ce2c28a398e7
+
 ## Intro
 GolemAI aims to simplify the process of working with Golang by providing an intuitive interface for generating and understanding code. 
 Using Google's Generative AI, GolemAI can generate Golang code snippets, format them for better readability, and provide detailed explanations.
