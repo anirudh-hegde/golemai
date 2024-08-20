@@ -1,4 +1,3 @@
-
 # GolemAI 🤖
 
 Welcome to **GolemAI**! This project is your personal Golang code assistant powered by Google's Generative AI tools. 
@@ -33,5 +32,8 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
    ```bash
    streamlit run golem.py
 
+
 ## Conclusion
 Congratulations! You have successfully run the application 🚀️.
+
+To view the GolemAI app 👉 https://golemai.streamlit.app/
