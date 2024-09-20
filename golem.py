@@ -177,7 +177,7 @@ def main():
         )
 
         go_syntax = st.text_area("Paste your Golang syntax here:")
-        explain_button = st.button("Explain Code")
+        explain_button = st.button("Explain the Code")
 
         if explain_button:
             if go_syntax:
