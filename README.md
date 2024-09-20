@@ -23,6 +23,8 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 - Google Generative AI API access
 
 ## Utilizing AWS
+![image](https://github.com/user-attachments/assets/a9d9ba70-d874-4d83-8bee-4723718fa1f1)
+
 ![image](https://github.com/user-attachments/assets/ddb3118b-b172-473c-a52c-1222474604ca)
 1.**Developed a Golang-Powered AI Code Assistant**: Spearheaded the development of GolemAI, an intelligent code assistant for Golang utilizing Google's Generative AI tools to generate, format, and explain code snippets based on user prompts. This involved deep integration of natural language processing (NLP) capabilities with Golang-specific features.
 
