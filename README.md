@@ -22,6 +22,9 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 - Streamlit
 - Google Generative AI API access
 
+## Utilizing AWS
+![image](https://github.com/user-attachments/assets/ddb3118b-b172-473c-a52c-1222474604ca)
+
 ### Installation
 1. Clone the repository:
    ```bash
