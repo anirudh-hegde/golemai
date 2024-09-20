@@ -32,6 +32,7 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 
 3.**Optimized Cloud Infrastructure for Performance**: Utilized AWS services such as CodeBuild and Elastic Beanstalk to streamline deployment and scaling processes, ensuring the GolemAI application maintained performance efficiency while handling dynamic user traffic and code generation requests in a cloud environment.
 
+Access the application utilized using AWS: http://golemai.us-east-1.elasticbeanstalk.com/
 ### Installation
 1. Clone the repository:
    ```bash
