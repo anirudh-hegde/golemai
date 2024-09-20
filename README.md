@@ -26,11 +26,10 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 ![image](https://github.com/user-attachments/assets/a9d9ba70-d874-4d83-8bee-4723718fa1f1)
 
 ![image](https://github.com/user-attachments/assets/ddb3118b-b172-473c-a52c-1222474604ca)
-1.**Developed a Golang-Powered AI Code Assistant**: Spearheaded the development of **GolemAI**, an intelligent code assistant for Golang utilizing **Google's Generative AI** tools to generate, format, and explain code snippets based on user prompts. This involved deep integration of natural language processing (NLP) capabilities with Golang-specific features.
+* **Developed a Golang-Powered AI Code Assistant**: Spearheaded the development of **GolemAI**, an intelligent code assistant for Golang utilizing **Google's Generative AI** tools to generate, format, and explain code snippets based on user prompts. This involved deep integration of natural language processing (NLP) capabilities with Golang-specific features.
 
-2.**Deployed Scalable Application on AWS Cloud**: Implemented a fully scalable application architecture on AWS using Elastic Beanstalk bu choosing **Docker** as platform, ensuring high availability and efficient resource management. **Automated CI/CD pipelines** through **AWS CodeBuild and CodePipeline**, enabling **continuous delivery** and version control of the application.
-
-3.**Optimized Cloud Infrastructure for Performance**: Utilized AWS services such as **CodeBuild and Elastic Beanstalk** to streamline deployment and scaling processes, ensuring the GolemAI application maintained performance efficiency while handling dynamic user traffic and code generation requests in a cloud environment.
+* **Deployed Scalable Application on AWS Cloud**: Implemented a fully scalable application architecture on AWS using Elastic Beanstalk bu choosing **Docker** as platform, ensuring high availability and efficient resource management. **Automated CI/CD pipelines** through **AWS CodeBuild and CodePipeline**, enabling **continuous delivery** and version control of the application.
+* **Optimized Cloud Infrastructure for Performance**: Utilized AWS services such as **CodeBuild and Elastic Beanstalk** to streamline deployment and scaling processes, ensuring the GolemAI application maintained performance efficiency while handling dynamic user traffic and code generation requests in a cloud environment.
 
 Access the application utilized using AWS: http://golemai.us-east-1.elasticbeanstalk.com/
 ### Installation
