@@ -28,20 +28,20 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 ![image](https://github.com/user-attachments/assets/ddb3118b-b172-473c-a52c-1222474604ca)
 * **Developed a Golang-Powered AI Code Assistant**: Spearheaded the development of **GolemAI**, an intelligent code assistant for Golang utilizing **Google's Generative AI** tools to generate, format, and explain code snippets based on user prompts. This involved deep integration of natural language processing (NLP) capabilities with Golang-specific features.
 
-* **Deployed Scalable Application on AWS Cloud**: Implemented a fully scalable application architecture on AWS using Elastic Beanstalk bu choosing **Docker** as platform, ensuring high availability and efficient resource management. **Automated CI/CD pipelines** through **AWS CodeBuild and CodePipeline**, enabling **continuous delivery** and version control of the application.
+* **Deployed Scalable Application on AWS Cloud**: Implemented a fully scalable application architecture on AWS using Elastic Beanstalk by choosing **Docker** as platform, ensuring high availability and efficient resource management. **Automated CI/CD pipelines** through **AWS CodeBuild and CodePipeline**, enabling **continuous delivery** and version control of the application.
 * **Optimized Cloud Infrastructure for Performance**: Utilized AWS services such as **CodeBuild and Elastic Beanstalk** to streamline deployment and scaling processes, ensuring the GolemAI application maintained performance efficiency while handling dynamic user traffic and code generation requests in a cloud environment.
 
 Access the application deployed using AWS: http://golemai.us-east-1.elasticbeanstalk.com/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/golemai.git
+   git clone https://github.com/anirudh-hegde/golemai.git
    cd golemai
    python3 -m venv venv
    pip install -r requirements.txt
 2. Run the app:
    ```bash
-   streamlit run golem.py
+   python3 -m streamlit run golem.py
 
 
 ## Conclusion
