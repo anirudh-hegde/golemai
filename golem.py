@@ -143,7 +143,7 @@ def main():
                     )
                     st.markdown(eoutput)
 
-                    st.success("Explanation of SQL Query")
+                    st.success("Explanation of Golang Code")
                     st.markdown(explanation)
 
     elif pages == 'Golang Formatter':
