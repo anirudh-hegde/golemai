@@ -41,6 +41,11 @@ Challenges are:
 - Python 3.7+
 - Streamlit
 - Google Generative AI API access
+### API/Service Details
+- Go to https://aistudio.google.com/app/apikey
+- Create API key.
+- Navigate to Google Cloud->Actvate your account->Under API & Services->Enable Generative Language API.
+- Copy the API key in the application.
 
 ## Utilizing AWS
 ![image](https://github.com/user-attachments/assets/a9d9ba70-d874-4d83-8bee-4723718fa1f1)
