@@ -1,15 +1,35 @@
 # GolemAI 🤖
 
-Welcome to **GolemAI**! This project is your personal Golang code assistant powered by Google's Generative AI tools. 
-GolemAI provides functionalities to generate, format, and explain Golang code snippets based on natural language prompts.
+Welcome to **GolemAI**! This project is your personal Golang code assistant powered 
+by Google's Generative AI tools.GolemAI provides functionalities to generate, format, 
+and explain Golang code snippets based on natural language prompts.
 Application is deployed on AWS Cloud utilizing the service of AWS Elastic Beanstalk.
 
 ## Demo
 https://github.com/user-attachments/assets/867f7c22-1261-4b11-abe8-ce2c28a398e7
 
 ## Intro
-GolemAI aims to simplify the process of working with Golang by providing an intuitive interface for generating and understanding code. 
-Using Google's Generative AI, GolemAI can generate Golang code snippets, format them for better readability, and provide detailed explanations.
+GolemAI aims to simplify the process of working with Golang by providing an intuitive 
+interface for generating and understanding code.Using Google's Generative AI, 
+GolemAI can generate Golang code snippets, format them for better readability, 
+and provide detailed explanations.
+
+## Problem
+Challenges are:
+* Developers who wanna learn Golang which might increase their learning curve.
+* Who lacks expertise in Golang.
+* Human Error.
+* Language specific challenges as Golang has paradigms that can be difficult to matter.
+
+## Solution
+* GolemAl bridges the gap for new developers by providing simple, understandable, and
+  functional Go code examples that can help them quickly learn and implement Golang features.
+* GolemAl generates Go code snippets based on natural language descriptions, allowing users
+  to quickly convert their thoughts or project needs into code.
+* GolemAl generates code that effectively handles these Go-specific constructs, helping developers
+  overcome challenges unique to Go.
+* GolemAl can automate the generation of these common Go structures, reducing manual effort and
+  allowing developers to focus on more complex logic.
 
 ## Features
 * **Golang Code Generator**: Create Golang code snippets from natural language prompts.
@@ -32,6 +52,7 @@ Using Google's Generative AI, GolemAI can generate Golang code snippets, format 
 * **Optimized Cloud Infrastructure for Performance**: Utilized AWS services such as **CodeBuild and Elastic Beanstalk** to streamline deployment and scaling processes, ensuring the GolemAI application maintained performance efficiency while handling dynamic user traffic and code generation requests in a cloud environment.
 
 Access the application deployed using AWS: http://golemai.us-east-1.elasticbeanstalk.com/
+
 ### Installation
 1. Clone the repository:
    ```bash
