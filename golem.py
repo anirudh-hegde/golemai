@@ -98,7 +98,7 @@ def main():
             <h3>Your Personal Golang code Assistant</h3>
             <p> Welcome to GolemAI! Our project is your personal Golang code assistant powered by Google's 
             Generative AI tools. 
-            With GenQuery, you can effortlessly generate Golang code snippets and receive detailed explanations, 
+            With GolemAI, you can effortlessly generate Golang code snippets and receive detailed explanations, 
             and also format your for readability and consistency. Let's simplifying your data retrieval process!</p>           
             </div>
             """,
