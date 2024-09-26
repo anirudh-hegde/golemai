@@ -6,7 +6,7 @@ and explain Golang code snippets based on natural language prompts.
 Application is deployed on AWS Cloud utilizing the service of AWS Elastic Beanstalk.
 
 ## Demo
-https://github.com/user-attachments/assets/867f7c22-1261-4b11-abe8-ce2c28a398e7
+https://youtu.be/WfqIt4PzYFw
 
 ## Intro
 GolemAI aims to simplify the process of working with Golang by providing an intuitive 
