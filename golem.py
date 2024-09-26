@@ -8,7 +8,7 @@ st.set_page_config(page_title="GolemAI", page_icon="🤖")
 st.sidebar.title('Navigation')
 with st.sidebar:
     pages = option_menu("Go to", ['About', 'Golang Code Generator', 'Golang Formatter', 'Golang Code Explainer'])
-    API_KEY = st.sidebar.text_input("Enter the google api")
+    API_KEY = st.sidebar.text_input("Enter the google gemini api key: ")
 
 
 def configure():
