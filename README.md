@@ -51,7 +51,6 @@ Challenges are:
 ![image](https://github.com/user-attachments/assets/a9d9ba70-d874-4d83-8bee-4723718fa1f1)
 ![golemai-aws-architecture](https://github.com/user-attachments/assets/7af1e8b1-9704-40e6-9932-0af34cdd6f2b)
 
-![image](https://github.com/user-attachments/assets/ddb3118b-b172-473c-a52c-1222474604ca)
 * **Developed a Golang-Powered AI Code Assistant**: Spearheaded the development of **GolemAI**, an intelligent code assistant for Golang utilizing **Google's Generative AI** tools to generate, format, and explain code snippets based on user prompts. This involved deep integration of natural language processing (NLP) capabilities with Golang-specific features.
 
 * **Deployed Scalable Application on AWS Cloud**: Implemented a fully scalable application architecture on AWS using Elastic Beanstalk by choosing **Docker** as platform, ensuring high availability and efficient resource management. **Automated CI/CD pipelines** through **AWS CodeBuild and CodePipeline**, enabling **continuous delivery** and version control of the application.
